@@ -1,4 +1,3 @@
-
 .container {
     max-width: 1200px;
     margin: 0 auto;
@@ -6,7 +5,7 @@
 
 
 .header {
-    background-image: url(/images/t4.png);
+    background-image: url(../images/t4.png);
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: cover;
@@ -119,27 +118,27 @@
 }
 
 .general-1 {
-    background-image: url(/images/r1.png);
+    background-image: url(../images/r1.png);
 }
 
 .general-2 {
-    background-image: url(/images/r2.png);
+    background-image: url(../images/r2.png);
 }
 
 .general-3 {
-    background-image: url(/images/r3.png);
+    background-image: url(../images/r3.png);
 }
 
 .general-4 {
-    background-image: url(/images/r4.png);
+    background-image: url(../images/r4.png);
 }
 
 .general-5 {
-    background-image: url(/images/r5.png);
+    background-image: url(../images/r5.png);
 }
 
 .general-6 {
-    background-image: url(/images/r6.png);
+    background-image: url(../images/r6.png);
 }
 
 h2 {
@@ -162,7 +161,7 @@ h2 {
 
 .info-1 {
     padding: 250px 0;
-    background-image: url(/images/bg2.png);
+    background-image: url(../images/bg2.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -213,7 +212,7 @@ h2 {
 
 .info-2 {
     padding: 250px 0;
-    background-image: url(/images/bg3.png);
+    background-image: url(../images/bg3.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: 100% 100%;
